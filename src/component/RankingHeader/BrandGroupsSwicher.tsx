@@ -1,5 +1,5 @@
 import { useAppContext } from "@/context/AppContext";
-import { Flex, FormControl, FormLabel, Switch, Text } from "@chakra-ui/react";
+import { Flex, Switch, Text } from "@chakra-ui/react";
 import { useTranslation } from "react-i18next";
 
 const BrandGroupsSwicher = () => {
